@@ -247,3 +247,8 @@ We extend our sincere appreciation to these developers and the broader open-sour
 Contributions to this repository are welcome! Whether it's fixing a bug, adding a new project, or improving documentation, your contributions help make this resource better for everyone.
 
 Please refer to the [contribution guidelines](CONTRIBUTING.md) before submitting your contributions.
+
+
+## License 📝
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
