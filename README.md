@@ -92,3 +92,33 @@ LLM (Gen AI) extends the LLM framework to incorporate Generative AI techniques, 
 | Car Price Prediction | [ Deployed Link](https://carpricepredict-crlkxz3lbkn.streamlit.app/)             | [Repo Link](https://github.com/neerajcodes888/car_price_predict) |
 
 
+
+## Index of Content 📄
+
+1. [Data Analysis](./data_analysis/README.md)
+2. [Machine Learning](./machine_learning/README.md)
+3. [Deep Learning](./deep_learning/README.md)
+
+Each section contains detailed notebooks, code, and explanations for specific projects and concepts.
+
+## List of Contents 📋
+
+- `data_analysis`: Contains notebooks and code for data analysis projects.
+- `machine_learning`: Includes notebooks and code for machine learning projects.
+- `deep_learning`: Consists of notebooks and code for deep learning projects.
+- `LLM`: Includes notebooks and code for projects related to the LLM (Data Analysis, Machine Learning, Deep Learning) framework.
+
+Feel free to explore each section and dive into the projects to enhance your understanding of data science concepts.
+
+
+## Contributing 🤝
+
+Contributions to this repository are welcome! Whether it's fixing a bug, adding a new project, or improving documentation, your contributions help make this resource better for everyone.
+
+Please refer to the [contribution guidelines](CONTRIBUTING.md) before submitting your contributions.
+
+## License 📝
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
