@@ -50,6 +50,14 @@ Additionally, for deep learning models, you will need:
 - TensorFlow
 - Keras
 
+For LLM (Gen AI) models, you will also need:
+- OpenAI library
+- Gen AI libraries
+
 You can install the required dependencies using pip:
 ```bash
+pip install pandas numpy scikit-learn seaborn matplotlib plotly tensorflow keras openai gen_ai
+```
+
+
 pip install pandas numpy scikit-learn seaborn matplotlib plotly tensorflow keras
