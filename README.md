@@ -5,8 +5,8 @@ Welcome to the Data Science Repository! This repository contains code, notebooks
 ## Table of Contents 📑
 
 - [Scope of Learning](#scope-of-learning)
-- [Ideas in Tabular Format](#ideas-in-tabular-format)
 - [Deployed Link and Repo Link](#deployed-link-and-repo-link)
+- [Ideas](#ideas)
 - [Vision](#vision)
 - [Innovative Ideas Description](#innovative-ideas-description)
 - [Prerequisites](#prerequisites)
@@ -25,7 +25,14 @@ This repository is aimed at providing hands-on learning experiences in the follo
 - Deep Learning
 - LLM (Gen AI)
 
-## Ideas in Tabular Format 📋
+
+## Deployed Link and Repo Link 🌐
+
+| Project         | Deployed Link                                             | Repository Link                                                |
+|-----------------|-----------------------------------------------------------|----------------------------------------------------------|
+| Car Price Prediction | [Deployed Link](https://carpricepredict-crlkxz3lbkn.streamlit.app/)             | [Repo Link](https://github.com/neerajcodes888/car_price_predict) |
+
+## Ideas  📋
 
 Here are your project ideas presented in a tabular format:
 
@@ -38,11 +45,7 @@ Here are your project ideas presented in a tabular format:
 | Cat vs Dog Classification    | Create a deep learning model to classify images of cats and dogs accurately.                                   | Deep Learning, Computer Vision |
 | Advanced Resume Tracking System  | Implement a comprehensive system using LLM techniques to track and analyze resumes for job matching and recruitment. | LLM (Gen AI), Human Resources |
 
-## Deployed Link and Repo Link 🌐
 
-| Project         | Deployed Link                                             | Repository Link                                                |
-|-----------------|-----------------------------------------------------------|----------------------------------------------------------|
-| Car Price Prediction | [Deployed Link](https://carpricepredict-crlkxz3lbkn.streamlit.app/)             | [Repo Link](https://github.com/neerajcodes888/car_price_predict) |
 
 ## Vision 👁️
 
