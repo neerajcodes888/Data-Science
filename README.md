@@ -111,6 +111,42 @@ Each section contains detailed notebooks, code, and explanations for specific pr
 Feel free to explore each section and dive into the projects to enhance your understanding of data science concepts.
 
 
+
+## Credits 🙏
+
+We would like to express our gratitude to the developers of the various data science tools, libraries, and models that have been instrumental in the creation of this repository:
+
+### Tools and Libraries
+
+- [pandas](https://pandas.pydata.org/): Developed by Wes McKinney and contributors, pandas is a powerful data manipulation and analysis library for Python.
+- [NumPy](https://numpy.org/): Created by Travis Oliphant, NumPy is the fundamental package for scientific computing with Python.
+- [scikit-learn](https://scikit-learn.org/): Developed by a community of contributors, scikit-learn is a versatile machine learning library for Python.
+- [seaborn](https://seaborn.pydata.org/): Developed by Michael Waskom and contributors, seaborn is a Python visualization library based on matplotlib for statistical graphics.
+- [matplotlib](https://matplotlib.org/): Developed by John D. Hunter (and later Michael Droettboom and contributors), matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+- [plotly](https://plotly.com/python/): Developed by Plotly Technologies, plotly is a graphing library for Python that creates interactive, publication-quality graphs online.
+- [TensorFlow](https://www.tensorflow.org/): Developed by the Google Brain team and contributors, TensorFlow is an open-source platform for machine learning and deep learning.
+- [Keras](https://keras.io/): Developed by François Chollet and contributors, Keras is an open-source neural network library written in Python that serves as a high-level API for TensorFlow.
+- [OpenAI](https://openai.com/): Developed by OpenAI, OpenAI is an artificial intelligence research laboratory consisting of the for-profit corporation OpenAI LP and its parent company, the non-profit OpenAI Inc.
+- [Gen AI Libraries](https://gen.ai/): Developed by Gen AI, Gen AI Libraries provide tools and frameworks for Generative AI techniques, enabling the generation of novel data, images, text, etc.
+
+### Machine Learning Models
+
+- [XGBoost](https://xgboost.readthedocs.io/en/latest/): Developed by a community of contributors, XGBoost is an optimized distributed gradient boosting library designed for speed and performance.
+- [LightGBM](https://lightgbm.readthedocs.io/en/latest/): Developed by Microsoft, LightGBM is a gradient boosting framework that uses tree-based learning algorithms.
+- [CatBoost](https://catboost.ai/): Developed by Yandex, CatBoost is an open-source gradient boosting library that provides state-of-the-art results out of the box.
+- [SciPy](https://www.scipy.org/): Developed by a community of contributors, SciPy is a scientific computing library that builds on NumPy and provides additional functionality.
+- [StatsModels](https://www.statsmodels.org/stable/index.html): Developed by a community of contributors, StatsModels is a Python module that provides classes and functions for the estimation of many different statistical models.
+
+### Deep Learning Models
+
+- [PyTorch](https://pytorch.org/): Developed by Facebook's AI Research lab (FAIR) and contributors, PyTorch is an open-source machine learning library based on the Torch library.
+- [fastai](https://docs.fast.ai/): Developed by fast.ai, fastai is a deep learning library built on top of PyTorch that provides high-level abstractions for training and deploying deep learning models.
+
+We extend our sincere appreciation to these developers and the broader open-source community for their invaluable contributions to the field of data science.
+
+
+
+
 ## Contributing 🤝
 
 Contributions to this repository are welcome! Whether it's fixing a bug, adding a new project, or improving documentation, your contributions help make this resource better for everyone.
