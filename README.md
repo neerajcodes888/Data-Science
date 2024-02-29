@@ -1,6 +1,6 @@
 # Data Science Repository 📊📈🤖
 
-Welcome to the Data Science Repository! This repository contains code, notebooks, and resources for various data science projects, including data analysis, machine learning, and deep learning.
+Welcome to the Data Science Repository! This repository contains code, notebooks, and resources for various data science projects, including data analysis, machine learning, and deep learning and LLM Models.
 
 ## Table of Contents 📑
 
@@ -8,6 +8,10 @@ Welcome to the Data Science Repository! This repository contains code, notebooks
 - [Vision](#vision)
 - [Innovative Ideas Description](#innovative-ideas-description)
 - [Prerequisites](#prerequisites)
+- [Ideas in Tabular Format](#ideas-in-tabular-format)
+- [LLM (Data Analysis, Machine Learning, Deep Learning)](#llm-data-analysis-machine-learning-deep-learning)
+- [LLM (Gen AI)](#llm-gen-ai)
+- [Deployed Link and Repo Link](#deployed-link-and-repo-link)
 - [Index of Content](#index-of-content)
 - [List of Contents](#list-of-contents)
 - [Contributing](#contributing)
@@ -19,6 +23,7 @@ This repository is aimed at providing hands-on learning experiences in the follo
 - Data Analysis
 - Machine Learning
 - Deep Learning
+- LLM (Gen AI)
 
 ## Vision 👁️
 
