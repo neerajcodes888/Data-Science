@@ -251,4 +251,4 @@ Please refer to the [contribution guidelines](CONTRIBUTING.md) before submitting
 
 ## License 📝
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/neerajcodes888/Data-Science/blob/main/LICENSE) file for details.
