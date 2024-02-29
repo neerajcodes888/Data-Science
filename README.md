@@ -1,4 +1,4 @@
-# Data Science Repository 📊📈🤖
+# Data Science  📊📈🤖
 
 Welcome to the Data Science Repository! This repository contains code, notebooks, and resources for various data science projects, including data analysis, machine learning, and deep learning and LLM Models.
 
