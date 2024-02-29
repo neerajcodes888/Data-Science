@@ -23,3 +23,13 @@ To get started, follow these steps:
 3. Create a new branch for your contribution:
    ```bash
    git checkout -b feature/your-feature-name
+   ```
+
+
+Make your changes and commit them:
+
+```bash
+git commit -m "Add your commit message here"
+```
+
+
