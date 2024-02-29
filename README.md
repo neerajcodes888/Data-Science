@@ -61,6 +61,20 @@ pip install pandas numpy scikit-learn seaborn matplotlib plotly tensorflow keras
 
 
 ## Ideas in Tabular Format 📋
-Here are some innovative project ideas presented in a tabular format:
+
+Here are your project ideas presented in a tabular format:
+
+| Project Idea                         | Description                                                                                                   | Domain                      |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------|
+| Indian Economy Analysis              | Analyze various economic indicators and trends to understand the current state and predict future scenarios. | Economics, Data Analysis   |
+| Diwali Sales Analysis                | Analyze sales data before, during, and after Diwali to identify trends, patterns, and optimize marketing strategies. | Retail, Sales Analysis   |
+| Car Price Prediction using ML        | Develop a machine learning model to predict the price of cars based on various features such as mileage, brand, etc. | Machine Learning, Automotive |
+| Loan Approval Prediction using ML    | Build a machine learning model to predict whether a loan application will be approved or rejected by a financial institution. | Machine Learning, Finance |
+| Cat vs Dog Classification in DL     | Create a deep learning model to classify images of cats and dogs accurately.                                   | Deep Learning, Computer Vision |
+| Advanced Resume Tracking System using LLM | Implement a comprehensive system using LLM techniques to track and analyze resumes for job matching and recruitment. | LLM (Gen AI), Human Resources |
+
+
+
+
 
 
