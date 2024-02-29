@@ -81,3 +81,12 @@ You can install the required dependencies using pip:
 pip install pandas numpy scikit-learn seaborn matplotlib plotly tensorflow keras openai gen_ai
 ```
 
+
+## LLM (Data Analysis, Machine Learning, Deep Learning) 📊🤖
+
+LLM stands for a comprehensive approach that integrates Data Analysis, Machine Learning, and Deep Learning techniques to solve complex problems efficiently.
+
+## LLM (Gen AI) 🧠🤖
+
+LLM (Gen AI) extends the LLM framework to incorporate Generative AI techniques, enabling the generation of novel data, images, text, etc., and exploring the possibilities of AI-driven creativity.
+
