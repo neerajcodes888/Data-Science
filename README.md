@@ -85,5 +85,10 @@ LLM stands for a comprehensive approach that integrates Data Analysis, Machine L
 LLM (Gen AI) extends the LLM framework to incorporate Generative AI techniques, enabling the generation of novel data, images, text, etc., and exploring the possibilities of AI-driven creativity.
 
 
+## Deployed Link and Repo Link 🌐
+
+| Project         | Deployed Link                                             | Repository Link                                                |
+|-----------------|-----------------------------------------------------------|----------------------------------------------------------|
+| Car Price Prediction | [ Deployed Link](https://carpricepredict-crlkxz3lbkn.streamlit.app/)             | [Repo Link](https://github.com/neerajcodes888/car_price_predict) |
 
 
