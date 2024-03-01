@@ -5,19 +5,28 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Tools Used](#tools-used)
-3. [Libraries](#libraries)
-4. [Algorithms Used](#algorithms-used)
-5. [Results](#results)
-6. [Installation](#installation)
-7. [Usage](#usage)
-8. [Future Work](#future-work)
-9. [Deployment](#deployment)
-10. [Video Demo](#Demo)
+2. [Deployment](#deployment)
+3. [Demo](#demo)
+4. [Tools Used](#tools-used)
+5. [Libraries](#libraries)
+6. [Algorithms Used](#algorithms-used)
+7. [Results](#results)
+8. [Files Structure](#files-structure)
+9. [Installation](#installation)
+10. [Usage](#usage)
+11. [Future Work](#future-work)
 
 ## Introduction 📝
 
 This project focuses on predicting car prices using machine learning techniques. The dataset used consists of various features such as mileage, brand, model, etc., and the target variable is the price of the car. The goal is to build a model that accurately predicts the price of a car given its features.
+
+### Deployment 🚀
+
+[Deployment Link](https://carpricepredict-crlkxz3lbkn.streamlit.app/)
+
+### Demo
+
+![Car_Price](https://github.com/neerajcodes888/Data-Science/assets/98253646/70f2cbf1-e153-4877-afac-80dca565a0d0)
 
 ## Tools Used 🔧
 
@@ -44,11 +53,20 @@ The Random Forest algorithm yielded the highest accuracy among the algorithms te
 
 | Algorithm         | Accuracy Score |
 |-------------------|----------------|
-| Decision Tree     | 0.91         |
+| Decision Tree     | 0.91           |
 | Random Forest     | 0.95 (highest) |
 | XGBoost           | 0.94           |
-| Linear Regression | 0.81          |
+| Linear Regression | 0.81           |
 
+## Files Structure 📂
+
+| File/Folder          | Description                                                  |
+|----------------------|--------------------------------------------------------------|
+| Prediction_model/    | Directory containing the trained machine learning models.    |
+| Prediction.ipynb     | Jupyter notebook for training the machine learning models.   |
+| app.py               | Streamlit web application for interacting with the models.    |
+| car_data.xls         | Dataset containing car features and prices.                  |
+| requirements.txt     | List of Python dependencies required for the project.  
 ## Installation 🛠️
 
 1. Clone the repository:
@@ -84,12 +102,6 @@ Some potential areas for future improvement and expansion include:
 - Handling outliers and missing data more effectively.
 - Implementing feature engineering techniques to create more informative features.
 
-## Deployment 🚀
 
- [Deployment Link](https://carpricepredict-crlkxz3lbkn.streamlit.app/)
 
-  
-## Demo
-
-![Car_Price](https://github.com/neerajcodes888/Data-Science/assets/98253646/70f2cbf1-e153-4877-afac-80dca565a0d0)
 
