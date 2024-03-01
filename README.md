@@ -28,9 +28,10 @@ This repository is aimed at providing hands-on learning experiences in the follo
 
 ## Deployed Link and Repo Link 🌐
 
-| Project         | Deployed Link                                             | Repository Link                                                |
-|-----------------|-----------------------------------------------------------|----------------------------------------------------------|
-| Car Price Prediction | [Deployed Link](https://carpricepredict-crlkxz3lbkn.streamlit.app/)             | [Repo Link](https://github.com/neerajcodes888/car_price_predict) |
+| Index | Project                | Deployed Link                                             | Repository Link                                      | Tools Used    |
+|-------|------------------------|-----------------------------------------------------------|------------------------------------------------------|---------------|
+| **1** | Car Price Prediction   | [Deployed Link](https://carpricepredict-crlkxz3lbkn.streamlit.app/) | [Repo Link](https://github.com/neerajcodes888/car_price_predict) | Streamlit, Scikit-learn, Pandas, NumPy |
+
 
 ## Ideas  📋
 
