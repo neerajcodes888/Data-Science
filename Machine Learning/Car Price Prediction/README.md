@@ -1,6 +1,6 @@
 # Car Price Prediction 🚗💰
 
-
+![car_price_predict](https://socialify.git.ci/neerajcodes888/car_price_predict/image?description=1&descriptionEditable=%20%20%20%20%20%20%20This%20repository%20provides%20a%20streamlined%20approach%20to%20training%20models%20on%20diverse%20datasets%20for%20accurate%20car%20price%20predictions.&font=Bitter&language=1&name=1&owner=1&pattern=Solid&theme=Auto)
 
 ## Table of Contents
 
@@ -91,4 +91,5 @@ Some potential areas for future improvement and expansion include:
   
 ## Demo
 
-[Insert Video Demo Link Here]
+![Car_Price](https://github.com/neerajcodes888/Data-Science/assets/98253646/70f2cbf1-e153-4877-afac-80dca565a0d0)
+
