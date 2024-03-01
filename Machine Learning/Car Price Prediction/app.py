@@ -12,6 +12,11 @@ def main():
      <li style="color:red;">
      <h5 style="color:blue;text-align:centre;">Welcome to Car Prediction System Made by Machine Learning </h5>
         </li>
+            <li style="color:red;"> 
+        <h5 style="color:blue;text-align:centre;">     Predict Your Car selling Price at best price</h5>
+        </li>
+        <li style="color:red;">
+        <h5 style="color:blue;text-align:centre;">Fill the details Carefully!!!</h5></li>
     </ul>
 
 
