@@ -18,9 +18,18 @@ def main():
         <li style="color:red;">
         <h5 style="color:blue;text-align:centre;">Fill the details Carefully!!!</h5></li>
     </ul>
-
-
-
+    
+        <h5 style="color:black;text-align:left;">Incase of Clarifiction or doubts Contact me:-> 
+    <ul>
+      <li style="color:yellow;">
+      <a href="https://www.linkedin.com/in/neeraj-kumar-9a75811a2" style="color:#36AE7C;">Linkdin Profile</a>
+      </li>
+      <li style="color:yellow;">
+      <a href="https://github.com/neerajcodes888" style="color:#36AE7C;">Github Profile</a
+      </li>
+   </ul>
+    </h5> 
+      </div>
 
     """
 
