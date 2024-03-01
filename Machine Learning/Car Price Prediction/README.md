@@ -57,3 +57,11 @@ git clone https://github.com/neerajcodes888/Data-Science/tree/main/Machine%20Lea
 cd car-price-prediction
 ```
 
+## Usage ℹ️
+
+Train the model:
+
+```bash
+python  prediction.ipynb
+```
+
