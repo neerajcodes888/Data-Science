@@ -13,6 +13,7 @@
 7. [Usage](#usage)
 8. [Future Work](#future-work)
 9. [Deployment](#deployment)
+10. [Video Demo](#Demo)
 
 ## Introduction 📝
 
@@ -88,6 +89,6 @@ Some potential areas for future improvement and expansion include:
  [Deployment Link](https://carpricepredict-crlkxz3lbkn.streamlit.app/)
 
   
-## Video Demo
+## Demo
 
 [Insert Video Demo Link Here]
