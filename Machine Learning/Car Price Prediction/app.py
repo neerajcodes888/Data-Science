@@ -10,7 +10,8 @@ def main():
     <h2 style="color:red;text-align:center;">Car Selling Price Prediction World</h2>
     <ul>
      <li style="color:red;">
-     
+     <h5 style="color:blue;text-align:centre;">Welcome to Car Prediction System Made by Machine Learning </h5>
+        </li>
     </ul>
 
 
