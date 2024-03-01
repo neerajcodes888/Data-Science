@@ -72,3 +72,22 @@ streamlit run app.py
 ```
 
 
+## Future Work 🔮
+
+Some potential areas for future improvement and expansion include:
+
+- Incorporating additional features such as car age, fuel type, and condition.
+- Experimenting with more advanced machine learning algorithms.
+- Fine-tuning model hyperparameters for improved performance.
+- Building a user interface for data input and displaying predictions in the Streamlit app.
+- Handling outliers and missing data more effectively.
+- Implementing feature engineering techniques to create more informative features.
+
+## Deployment 🚀
+
+ [Deployment Link](https://carpricepredict-crlkxz3lbkn.streamlit.app/)
+
+  
+## Video Demo
+
+[Insert Video Demo Link Here]
