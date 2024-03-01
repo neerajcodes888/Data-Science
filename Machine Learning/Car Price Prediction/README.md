@@ -65,3 +65,10 @@ Train the model:
 python  prediction.ipynb
 ```
 
+Run the Streamlit app:
+
+```bash
+streamlit run app.py
+```
+
+
