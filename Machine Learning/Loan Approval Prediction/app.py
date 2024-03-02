@@ -33,13 +33,13 @@ def predict():
         else:
             male=0
             
-                 # married
+         # married
         if(married=="Yes"):
             married_yes = 1
         else:
             married_yes=0
             
-                 # dependents
+        # dependents
         if(dependents=='1'):
             dependents_1 = 1
             dependents_2 = 0
@@ -57,18 +57,28 @@ def predict():
             dependents_2 = 0
             dependents_3 = 0   
             
-            # education
+        # education
         if (education=="Not Graduate"):
             not_graduate=1
         else:
             not_graduate=0
             
-             # employed
+        # employed
         if (employed == "Yes"):
             employed_yes=1
         else:
             employed_yes=0
-            
+         # property area
+
+        if(area=="Semiurban"):
+            semiurban=1
+            urban=0
+        elif(area=="Urban"):
+            semiurban=0
+            urban=1
+        else:
+            semiurban=0
+            urban=0
 
 if __name__ == "__main__":
     app.run(debug=True)
