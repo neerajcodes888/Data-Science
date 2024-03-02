@@ -83,6 +83,8 @@ def predict():
         totalincomelog = np.log(ApplicantIncome+CoapplicantIncome)
         LoanAmountlog = np.log(LoanAmount)
         Loan_Amount_Termlog = np.log(Loan_Amount_Term)
+        
+        prediction = model.predict([[credit, ApplicantIncomelog,LoanAmountlog, Loan_Amount_Termlog, totalincomelog, male, married_yes, dependents_1, dependents_2, dependents_3, not_graduate, employed_yes,semiurban, urban ]])
 
 if __name__ == "__main__":
     app.run(debug=True)
