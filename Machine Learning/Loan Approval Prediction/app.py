@@ -57,6 +57,12 @@ def predict():
             dependents_2 = 0
             dependents_3 = 0   
             
+            # education
+        if (education=="Not Graduate"):
+            not_graduate=1
+        else:
+            not_graduate=0
+            
 
 if __name__ == "__main__":
     app.run(debug=True)
