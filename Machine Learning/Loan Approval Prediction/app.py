@@ -79,6 +79,10 @@ def predict():
         else:
             semiurban=0
             urban=0
+        ApplicantIncomelog = np.log(ApplicantIncome)
+        totalincomelog = np.log(ApplicantIncome+CoapplicantIncome)
+        LoanAmountlog = np.log(LoanAmount)
+        Loan_Amount_Termlog = np.log(Loan_Amount_Term)
 
 if __name__ == "__main__":
     app.run(debug=True)
