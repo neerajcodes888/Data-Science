@@ -63,6 +63,12 @@ def predict():
         else:
             not_graduate=0
             
+             # employed
+        if (employed == "Yes"):
+            employed_yes=1
+        else:
+            employed_yes=0
+            
 
 if __name__ == "__main__":
     app.run(debug=True)
