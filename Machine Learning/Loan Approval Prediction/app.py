@@ -33,7 +33,11 @@ def predict():
         else:
             male=0
             
-
+                 # married
+        if(married=="Yes"):
+            married_yes = 1
+        else:
+            married_yes=0
 
 if __name__ == "__main__":
     app.run(debug=True)
