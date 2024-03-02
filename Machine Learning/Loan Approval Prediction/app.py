@@ -38,6 +38,25 @@ def predict():
             married_yes = 1
         else:
             married_yes=0
+            
+                 # dependents
+        if(dependents=='1'):
+            dependents_1 = 1
+            dependents_2 = 0
+            dependents_3 = 0
+        elif(dependents == '2'):
+            dependents_1 = 0
+            dependents_2 = 1
+            dependents_3 = 0
+        elif(dependents=="3+"):
+            dependents_1 = 0
+            dependents_2 = 0
+            dependents_3 = 1
+        else:
+            dependents_1 = 0
+            dependents_2 = 0
+            dependents_3 = 0   
+            
 
 if __name__ == "__main__":
     app.run(debug=True)
