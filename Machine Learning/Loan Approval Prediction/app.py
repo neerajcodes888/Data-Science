@@ -94,12 +94,12 @@ def predict():
         # print(prediction)
 
         if(prediction=="N"):
-            prediction="No"
+            prediction="Sorry , You are not Eligible to avail loan services"
         else:
-            prediction="Yes"
+            prediction="Congratualtions , You Can avail loan services"
 
 
-        return render_template("prediction.html", prediction_text="loan status is {}".format(prediction))
+        return render_template("prediction.html", prediction_text="{}".format(prediction))
 
     else:
         return render_template("prediction.html")
