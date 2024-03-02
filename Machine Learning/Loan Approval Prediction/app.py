@@ -85,6 +85,16 @@ def predict():
         Loan_Amount_Termlog = np.log(Loan_Amount_Term)
         
         prediction = model.predict([[credit, ApplicantIncomelog,LoanAmountlog, Loan_Amount_Termlog, totalincomelog, male, married_yes, dependents_1, dependents_2, dependents_3, not_graduate, employed_yes,semiurban, urban ]])
+        
+        
+                # print(prediction)
 
+        if(prediction=="N"):
+            prediction="No"
+        else:
+            prediction="Yes"
+            
+        
+        return render_template("prediction.html", prediction_text="loan status is {}".format(prediction))
 if __name__ == "__main__":
     app.run(debug=True)
