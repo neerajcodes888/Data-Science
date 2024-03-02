@@ -96,5 +96,6 @@ def predict():
             
         
         return render_template("prediction.html", prediction_text="loan status is {}".format(prediction))
+        
 if __name__ == "__main__":
     app.run(debug=True)
