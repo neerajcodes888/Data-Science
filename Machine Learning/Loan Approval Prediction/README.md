@@ -37,13 +37,13 @@ To use the Loan Approval Prediction application, follow the installation steps m
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/neerajcodes888/loan-approval-prediction.git
+git clone https://github.com/neerajcodes888/Data-Science/tree/main/Machine%20Learning/Loan%20Approval%20Prediction
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd Loan-Approval-Prediction
+cd Data-Science/MachineLearning/Loan-Approval-Prediction
 
 ```
 ### Install dependencies:
