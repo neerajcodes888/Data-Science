@@ -21,7 +21,7 @@ Loan Approval Prediction is a user-friendly web application that utilizes machin
 
 ## Demo
 
-![loan_Approval_Prediction Demo](https://github.com/neerajcodes888/Data-Science/assets/98253646/eb190e5d-4c7f-402d-bac1-9766e022df29)
+
 
 
 ### Demo Link
@@ -30,6 +30,7 @@ You can access the live demo of the application [here](https://loan-approval-pre
 
 ### Video Demo
 
+![loan_Approval_Prediction Demo](https://github.com/neerajcodes888/Data-Science/assets/98253646/eb190e5d-4c7f-402d-bac1-9766e022df29)
 
 ## Usage
 
