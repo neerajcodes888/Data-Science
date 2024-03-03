@@ -1,6 +1,6 @@
 # Data Science 📊📈🤖
 
-Welcome to the Data Science Repository! This repository contains code, notebooks, and resources for various data science projects, including data analysis, machine learning, deep learning, and LLM Models.
+![Data-Science](https://socialify.git.ci/neerajcodes888/Data-Science/image?description=1&descriptionEditable=Welcome%20to%20the%20Data%20Science%20Repository!%20This%20repository%20contains%20code%20%2C%20notebooks%2C%20and%20resources%20for%20various%20data%20science%20projects&font=Raleway&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
 
 ## Table of Contents 📑
 
