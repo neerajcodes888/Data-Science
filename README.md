@@ -1,6 +1,6 @@
 # Data Science 📊📈🤖
 
-![Data-Science](ds.png)
+![Data-Science](https://wallpapercave.com/wp/wp4748478.jpg)
 
 ## Table of Contents 📑
 
