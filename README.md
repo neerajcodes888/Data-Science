@@ -120,7 +120,7 @@ Feel free to explore each section and dive into the projects to enhance your und
 
 ## Credits 🙏
 
-I would like to express our gratitude to the developers of the various data science tools, libraries, and models that have been instrumental in the creation of this repository:
+I would like to express my  gratitude to the developers of the various data science tools, libraries, and models that have been instrumental in the creation of this repository:
 
 ### Tools and Libraries
 
