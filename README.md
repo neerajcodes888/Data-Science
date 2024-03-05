@@ -1,6 +1,6 @@
 # Data Science 📊📈🤖
 
-![Data-Science](https://socialify.git.ci/neerajcodes888/Data-Science/image?description=1&descriptionEditable=Welcome%20to%20the%20Data%20Science%20Repository!%20This%20repository%20contains%20code%20%2C%20notebooks%2C%20and%20resources%20for%20various%20data%20science%20projects&font=Raleway&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
+![Data-Science](https://private-user-images.githubusercontent.com/20041231/306964505-3c2a6643-73ff-4235-858f-1c70d653a0ce.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk2NTY4NTYsIm5iZiI6MTcwOTY1NjU1NiwicGF0aCI6Ii8yMDA0MTIzMS8zMDY5NjQ1MDUtM2MyYTY2NDMtNzNmZi00MjM1LTg1OGYtMWM3MGQ2NTNhMGNlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA1VDE2MzU1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2NDNmOTNlMjY5ZTBlOTE2N2Q1OGEzN2YwMWNjOWJmNDkyZDJkZjIxNmU0ZjVmZTU2N2JjZTY5OGQ3NDQwYzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ewrTcHL0BuamJ6_22bkihagfCGSLKjURyVtZXc00rS4https://socialify.git.ci/neerajcodes888/Data-Science/image?description=1&descriptionEditable=Welcome%20to%20the%20Data%20Science%20Repository!%20This%20repository%20contains%20code%20%2C%20notebooks%2C%20and%20resources%20for%20various%20data%20science%20projects&font=Raleway&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
 
 ## Table of Contents 📑
 
