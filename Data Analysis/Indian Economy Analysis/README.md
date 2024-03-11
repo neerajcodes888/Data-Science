@@ -18,13 +18,37 @@ This project utilizes machine learning techniques to analyze economic data, prov
 ## Current Economy Scenario
 Here's the latest snapshot of economic indicators:
 
-| Indicator              | Value (Latest) |
-|------------------------|----------------|
-| GDP                    | $4.112 trillion|
-| Unemployment Rate      | 7.2%           |
-| Inflation Rate         | 3.5%           |
-| Stock Market Index     | 48,500         |
-| Exchange Rate          | 1 USD = 73.5 INR|
+#### Current Ecocnomic Data of India , Q1 2024
+
+| Indicator(Indian)        | Value (Latest)       |
+|--------------------|----------------------|
+| GDP                | $4.112 trillion      |
+| Unemployment Rate  | 3.1%                 |
+| Inflation Rate     | 5.1%                 |
+| GDP Growth         | 6.1%                 |
+| Exchange Rate      | 1 USD = 82.75 INR    |
+| Forex Reserves     | $619.07 billion      |
+
+### Description
+
+- **GDP (Gross Domestic Product)**: The total monetary value of all goods and services produced within a country's borders in a specific time period, usually annually or quarterly. [Source: IMF]
+
+- **Unemployment Rate**: The percentage of the labor force that is unemployed and actively seeking employment. It's a key indicator of economic health, reflecting the balance between job supply and demand. [Source: Economic Times]
+
+- **Inflation Rate**: The rate at which the general level of prices for goods and services is rising, leading to a decrease in purchasing power over time. High inflation can erode the value of money. [Source: Forbes]
+
+- **GDP Growth**: The percentage increase in GDP from one period to another. It indicates the pace at which the economy is expanding or contracting. [Source: IMF]
+
+- **Exchange Rate**: The value of one currency in relation to another. It determines the purchasing power of a currency in international trade. [Source: Economic Times]
+
+- **Forex Reserves (Foreign Exchange Reserves)**: The foreign currency deposits and bonds held by central banks and monetary authorities. They serve as a buffer to stabilize the domestic currency and ensure liquidity in the foreign exchange market. [Source: IMF]
+
+### Sources
+
+- [IMF (International Monetary Fund)](https://www.imf.org)
+- [Forbes](https://www.forbes.com)
+- [Economic Times](https://economictimes.indiatimes.com)
+
 
 ## History of Economic Revolutions
 The history of economic revolutions, such as the Liberalization, Privatization, and Globalization (LPG), has significantly shaped the current economic landscape, fostering growth, innovation, and integration of economies worldwide.
