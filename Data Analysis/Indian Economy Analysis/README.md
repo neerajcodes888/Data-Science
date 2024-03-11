@@ -1,6 +1,6 @@
 # Economy Analysis using Machine Learning
 
-![Indian Economy](https://media.istockphoto.com/id/1252243136/photo/india-economy-improves-and-returns-to-normal-after-crisis.jpg?s=612x612&w=0&k=20&c=qJbO9_Q5i5vPet_YE1NFzhtAoxWBhrWBcvQ80ArFCj0=)
+![Indian Economy](https://media.istockphoto.com/id/1218760952/photo/graph-falling-down-in-front-of-india-flag-crisis-concept.jpg?s=612x612&w=0&k=20&c=NT97IcGj9bs-C1QwNDUuHhQrI1f0YYwoxFwIqOS5zpc=)
 
 ## Table of Contents
 1. [Introduction](#introduction)
