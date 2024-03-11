@@ -1,6 +1,6 @@
 # Diwali Sales-Analysis
 
-![Sales-Analysis](https://storage.googleapis.com/kaggle-datasets-images/3635658/6318122/ca617e487aac25e9701b0a3a835e61d0/dataset-cover.png?t=2023-08-17-11-19-21)
+![Sales-Analysis](img.jpg)
 
 The Sales Analysis Python project is designed to provide a comprehensive analysis of sales data using the Python programming language. This project aims to assist businesses and individuals in gaining valuable insights into their sales performance, trends, and patterns by processing and visualizing sales data.
 
