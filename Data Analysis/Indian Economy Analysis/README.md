@@ -1,6 +1,6 @@
 # Economy Analysis using Machine Learning
 
-![Indian Economy](https://media.istockphoto.com/id/587191498/photo/india-economy-and-financial-market-growth-concept-3d-rendering.jpg?s=612x612&w=0&k=20&c=5UbDJ98YAWAV-ZGYVe_Ga1L3yctchDSq2QOHGIJGkPA=)
+![Indian Economy](https://media.istockphoto.com/id/1077457828/photo/nation-growth-concept-green-up-arrows-businessman-holding-card-of-india-flag.jpg?s=612x612&w=0&k=20&c=I_ERc2mudQlgzfuj10n0J8X2reeDUSNHgPGALQGfZqc=)
 
 ## Table of Contents
 1. [Introduction](#introduction)
