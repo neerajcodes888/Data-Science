@@ -31,7 +31,9 @@ This repository is aimed at providing hands-on learning experiences in the follo
 |-------|------------------------|-----------------------------------------------------------|------------------------------------------------------|---------------|
 | **1** | Car Price Prediction   | [Deployed Link](https://carpricepredict-crlkxz3lbkn.streamlit.app/) | [Repo Link](https://github.com/neerajcodes888/Data-Science/tree/main/Machine%20Learning/Car%20Price%20Prediction) | Streamlit, Scikit-learn, Pandas, NumPy |
 | **2** | Car Price Prediction | [Deployed Link](https://github.com/neerajcodes888/Data-Science/tree/main/Machine%20Learning/Car%20Price%20Prediction) | [Repo Link](https://yourcarprice.onrender.com/) | Flask, Scikit-learn, Pandas, NumPy |
-| **2** | Loan Price Prediction | [Deployed Link](https://loan-approval-prediction-b5l5.onrender.com/) | [Repo Link](https://github.com/neerajcodes888/Data-Science/tree/main/Machine%20Learning/Loan%20Approval%20Prediction) | Flask, Scikit-learn, Pandas, NumPy |
+| **3** | Loan Price Prediction | [Deployed Link](https://loan-approval-prediction-b5l5.onrender.com/) | [Repo Link](https://github.com/neerajcodes888/Data-Science/tree/main/Machine%20Learning/Loan%20Approval%20Prediction) | Flask, Scikit-learn, Pandas, NumPy |
+
+| **4** | Diwali Sales Analysis | Not Deployed | [Repo Link](https://github.com/neerajcodes888/Data-Science/tree/main/Data%20Analysis/Diwali%20Sales%20Analysis) | Pandas, NumPy , PyPlot , Seaborn|
 
 
 ## Ideas  📋
