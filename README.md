@@ -10,7 +10,6 @@
 - [Vision](#vision)
 - [Innovative Ideas Description](#innovative-ideas-description)
 - [Prerequisites](#prerequisites)
-- [LLM (Data Analysis, Machine Learning, Deep Learning)](#llm-data-analysis-machine-learning-deep-learning)
 - [LLM (Gen AI)](#llm-gen-ai)
 - [Index of Content](#index-of-content)
 - [List of Contents](#list-of-contents)
@@ -31,6 +30,12 @@ This repository is aimed at providing hands-on learning experiences in the follo
 | Index | Project                | Deployed Link                                             | Repository Link                                      | Tools Used    |
 |-------|------------------------|-----------------------------------------------------------|------------------------------------------------------|---------------|
 | **1** | Car Price Prediction   | [Deployed Link](https://carpricepredict-crlkxz3lbkn.streamlit.app/) | [Repo Link](https://github.com/neerajcodes888/Data-Science/tree/main/Machine%20Learning/Car%20Price%20Prediction) | Streamlit, Scikit-learn, Pandas, NumPy |
+| **2** | Car Price Prediction | [Deployed Link](https://github.com/neerajcodes888/Data-Science/tree/main/Machine%20Learning/Car%20Price%20Prediction) | [Repo Link](https://yourcarprice.onrender.com/) | Flask, Scikit-learn, Pandas, NumPy |
+| **3** | Loan Price Prediction | [Deployed Link](https://loan-approval-prediction-b5l5.onrender.com/) | [Repo Link](https://github.com/neerajcodes888/Data-Science/tree/main/Machine%20Learning/Loan%20Approval%20Prediction) | Flask, Scikit-learn, Pandas, NumPy |
+| **4** | Diwali Sales Analysis | Not Deployed | [Repo Link](https://github.com/neerajcodes888/Data-Science/tree/main/Data%20Analysis/Diwali%20Sales%20Analysis) | Pandas, NumPy , PyPlot , Seaborn|
+| **5** | Cat Vs Dog Image Classification | Not Deployed | [Repo Link](https://github.com/neerajcodes888/Data-Science/tree/main/Deep%20Learning/CatVsDog%20Image%20Classification) | Tensorflow , Keras , Matplotlib |
+| **6** | Advanced Resume Tracking System | [Deployed Link](https://advancedresumetracking.onrender.com/)| [Repo Link](https://github.com/neerajcodes888/Data-Science/tree/main/LLM%20Generative%20AI/Adavanced%20Resume%20Tracking%20System) | LLM , Generative-AI , PyPDF , Streamlit |
+
 
 
 ## Ideas  📋
@@ -83,9 +88,6 @@ pip install pandas numpy scikit-learn seaborn matplotlib plotly tensorflow keras
 ```
 
 
-## LLM (Data Analysis, Machine Learning, Deep Learning) 📊🤖
-
-LLM stands for a comprehensive approach that integrates Data Analysis, Machine Learning, and Deep Learning techniques to solve complex problems efficiently.
 
 ## LLM (Gen AI) 🧠🤖
 
