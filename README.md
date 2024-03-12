@@ -34,6 +34,8 @@ This repository is aimed at providing hands-on learning experiences in the follo
 | **3** | Loan Price Prediction | [Deployed Link](https://loan-approval-prediction-b5l5.onrender.com/) | [Repo Link](https://github.com/neerajcodes888/Data-Science/tree/main/Machine%20Learning/Loan%20Approval%20Prediction) | Flask, Scikit-learn, Pandas, NumPy |
 | **4** | Diwali Sales Analysis | Not Deployed | [Repo Link](https://github.com/neerajcodes888/Data-Science/tree/main/Data%20Analysis/Diwali%20Sales%20Analysis) | Pandas, NumPy , PyPlot , Seaborn|
 | **5** | Cat Vs Dog Image Classification | Not Deployed | [Repo Link](https://github.com/neerajcodes888/Data-Science/tree/main/Deep%20Learning/CatVsDog%20Image%20Classification) | Tensorflow , Keras , Matplotlib |
+| **6** | Advanced Resume Tracking System | [Deployed Link](https://advancedresumetracking.onrender.com/)| [Repo Link](https://github.com/neerajcodes888/Data-Science/tree/main/LLM%20Generative%20AI/Adavanced%20Resume%20Tracking%20System) | LLM , Generative-AI , PyPDF , Streamlit |
+
 
 
 ## Ideas  📋
