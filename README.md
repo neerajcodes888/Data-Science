@@ -10,7 +10,6 @@
 - [Vision](#vision)
 - [Innovative Ideas Description](#innovative-ideas-description)
 - [Prerequisites](#prerequisites)
-- [LLM (Data Analysis, Machine Learning, Deep Learning)](#llm-data-analysis-machine-learning-deep-learning)
 - [LLM (Gen AI)](#llm-gen-ai)
 - [Index of Content](#index-of-content)
 - [List of Contents](#list-of-contents)
@@ -85,9 +84,6 @@ pip install pandas numpy scikit-learn seaborn matplotlib plotly tensorflow keras
 ```
 
 
-## LLM (Data Analysis, Machine Learning, Deep Learning) 📊🤖
-
-LLM stands for a comprehensive approach that integrates Data Analysis, Machine Learning, and Deep Learning techniques to solve complex problems efficiently.
 
 ## LLM (Gen AI) 🧠🤖
 
