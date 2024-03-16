@@ -107,4 +107,6 @@ def main():
             raw_text = get_pdf_text(pdf_docs)
             response=get_gemini_repsonse(raw_text+" as text information "+space+input_prompt)
     st.subheader(response)        
+ 
+ 
     
