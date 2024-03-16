@@ -109,4 +109,6 @@ def main():
     st.subheader(response)        
  
  
-    
+ 
+if __name__ == "__main__":
+    main()  
