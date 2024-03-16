@@ -74,4 +74,7 @@ def user_input(user_question):
     st.write("Response:\n\n\n\n", response["output_text"])
     
     
-    
+def get_gemini_repsonse(input):
+    model=genai.GenerativeModel('gemini-pro')
+    response=model.generate_content(input)
+    return response.text    
