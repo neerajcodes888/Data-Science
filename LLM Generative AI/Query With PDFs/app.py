@@ -79,3 +79,32 @@ def get_gemini_repsonse(input):
     response=model.generate_content(input)
     return response.text    
 
+def main():
+    st.set_page_config("Query With PDF")
+    st.header("Query With Your Uploaded PDFs")
+    response=""
+    user_question = st.text_input("Ask a Question from the PDF Files")
+
+    if user_question:
+        user_input(user_question)
+
+    with st.sidebar:
+        
+        st.title("Query With PDFs:")
+        pdf_docs = st.file_uploader("Upload your PDF Files and Click on the Submit & Process Button", accept_multiple_files=True)
+        if st.button("Submit & Process"):
+            with st.spinner("Processing..."):
+                raw_text = get_pdf_text(pdf_docs)
+                text_chunks = get_text_chunks(raw_text)
+                get_vector_store(text_chunks)
+                st.success("Done")
+        if st.button("Get KeyPoints",type="primary"):
+            st.empty() 
+            input_prompt=""" fetch all  key points in details from given text information ,  do not give extra other information . only give information relevant to text information
+            
+                    """
+            space="                        "
+            raw_text = get_pdf_text(pdf_docs)
+            response=get_gemini_repsonse(raw_text+" as text information "+space+input_prompt)
+    st.subheader(response)        
+    
