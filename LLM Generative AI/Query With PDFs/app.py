@@ -72,3 +72,6 @@ def user_input(user_question):
 
     print(response)
     st.write("Response:\n\n\n\n", response["output_text"])
+    
+    
+    
