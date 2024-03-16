@@ -78,3 +78,4 @@ def get_gemini_repsonse(input):
     model=genai.GenerativeModel('gemini-pro')
     response=model.generate_content(input)
     return response.text    
+
