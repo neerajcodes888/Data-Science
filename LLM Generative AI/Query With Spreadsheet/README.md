@@ -31,7 +31,7 @@ To run the Query Spreadsheet locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/neerajcodes888/Query-With-Spreadsheet.git
    ```
 2. Navigate to the project directory:
 
