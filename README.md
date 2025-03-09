@@ -100,7 +100,6 @@ LLM (Gen AI) extends the LLM framework to incorporate Generative AI techniques, 
 
 
 
-
 ## Index of Content 📄
 
 1. [Data Analysis](./data_analysis/README.md)
