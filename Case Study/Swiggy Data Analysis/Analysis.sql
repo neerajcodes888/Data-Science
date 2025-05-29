@@ -10,6 +10,11 @@ select round(avg(amount),2) from orders;
 
 -- 3. Find top restaurant in terms of number of orders for a given month
 
+select r.r_name , count(*) as Total_orders  from restaurants r join
+orders o on r.r_id =o.r_id
+group by r.r_name
+order by Total_orders desc
+limit 3;
 
 -- 4. Restaurants with monthly sales > x for
 
