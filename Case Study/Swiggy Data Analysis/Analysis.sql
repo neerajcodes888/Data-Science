@@ -7,7 +7,6 @@ select * from users where user_id not in(select user_id from orders);
 -- 2. Average Price/dish
 select round(avg(amount),2) from orders;
 
-
 -- 3. Find top restaurant in terms of number of orders for a given month
 
 select r.r_name , count(*) as Total_orders  from restaurants r join
