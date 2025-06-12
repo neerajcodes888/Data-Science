@@ -79,7 +79,7 @@
 - Are there directors who work more on movies vs shows?
 
 ### 📊 Visuals:
-- Bar plot: Top 10 directors by count
+
 - Word cloud: Cast names
 
 ---
