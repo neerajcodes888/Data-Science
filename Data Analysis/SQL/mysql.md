@@ -1,6 +1,6 @@
 # 🟢 SQL QUESTION BANK: BASIC TO EXPERT
 
-> Covers all SQL concepts with clear syntax and use cases. Perfect for revision, interviews, or building muscle memory.
+> A structured guide covering SQL concepts from beginner to expert level with practical examples.
 
 ---
 
@@ -39,5 +39,8 @@ SELECT * FROM employees ORDER BY salary DESC;
 SELECT COUNT(*) AS "Total Employees" FROM employees;
 
 -- 10. Find min, max, avg salary
-SELECT MIN(salary) AS "Minimum", MAX(salary) AS "Maximum",
-ROUND(AVG(salary), 2) AS "Average" FROM employees;
+SELECT 
+    MIN(salary) AS "Minimum", 
+    MAX(salary) AS "Maximum", 
+    ROUND(AVG(salary), 2) AS "Average"
+FROM employees;
