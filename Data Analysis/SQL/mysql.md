@@ -1,4 +1,5 @@
 
+
 # 🟢 SQL QUESTION BANK: BASIC TO EXPERT
 
 > A structured guide covering SQL concepts from beginner to expert level with practical examples.
@@ -212,6 +213,59 @@ CREATE TABLE sal (
 ```
 
 ---
+
+## ✏️ 7. DML - INSERT / UPDATE / DELETE
+
+```sql
+-- 36. Insert a new employee record
+INSERT INTO emp VALUES ('Neeraj', 2, 'DA', 5645.02);
+
+-- 37. Insert multiple rows at once
+INSERT INTO emp (name, emp_id, designation, bonus)
+VALUES 
+    ('Neeraj', 5, 'DA', 5645.02),
+    ('Amit', 3, 'Developer', 6000.50),
+    ('Sana', 6, 'Analyst', 5500.00),
+    ('Priya', 1, 'HR', 4800.75);
+
+-- 38. Update salary of employees in 'IT'
+SET SQL_SAFE_UPDATES = 0;
+
+UPDATE employees e
+INNER JOIN departments d ON e.dept_id = d.dept_id
+SET salary = 150000
+WHERE dept_name = 'IT';
+
+-- 39. Delete employees who haven't logged in since 2020
+DELETE FROM employees WHERE last_login < '2020-01-01';
+
+-- 40. TRUNCATE the sales table
+CREATE TABLE sale AS SELECT * FROM sales;
+TRUNCATE sale;
+```
+
+---
+
+## 📋 8. CONSTRAINTS & KEYS
+
+```sql
+-- 41. Add a PRIMARY KEY to emp_id
+ALTER TABLE emp ADD COLUMN emp_id INT(10) NOT NULL PRIMARY KEY;
+
+-- 42. Define NOT NULL on emp_name
+ALTER TABLE emp MODIFY name CHAR(40) NOT NULL;
+
+-- 43. Add UNIQUE constraint on email
+ALTER TABLE emp ADD email VARCHAR(35);
+ALTER TABLE emp MODIFY COLUMN email VARCHAR(35) NOT NULL UNIQUE;
+
+-- 44. Add a FOREIGN KEY from employees to departments
+ALTER TABLE employees ADD CONSTRAINT dept_id FOREIGN KEY(dept_id) REFERENCES departments(dept_id);
+
+-- 45. Add CHECK constraint for salary < 200000
+ALTER TABLE employees ADD CONSTRAINT less_than_50k CHECK(salary < 200000);
+```
+
 
 ## 👨‍💻 Author Info
 
