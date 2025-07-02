@@ -206,3 +206,78 @@ drop table temp_projects;
 
 
 create table sal(sal_id int(10) not null primary key,sal_amount double,emp_id int,foreign key(emp_id) references emp(emp_id));
+
+/*
+==========================
+✏️ 7. DML - INSERT / UPDATE / DELETE
+========================== 
+*/
+
+-- 36. Insert a new employee record.
+
+insert into emp values('Neeraj',2,'DA',5645.02);
+
+-- 37. Insert multiple rows at once.
+
+INSERT INTO emp (name,emp_id,designation,bonus)
+VALUES 
+    ('Neeraj', 5, 'DA', 5645.02),
+    ('Amit', 3, 'Developer', 6000.50),
+    ('Sana', 6, 'Analyst', 5500.00),
+    ('Priya', 1, 'HR', 4800.75);
+
+
+-- 38. Update salary of employees in 'IT'.
+
+select * from employees e inner join departments d
+on e.dept_id=d.dept_id;
+
+SET SQL_SAFE_UPDATES = 0;
+
+update employees  e inner join departments d
+on e.dept_id=d.dept_id 
+set salary=150000 
+where dept_name='IT';
+
+-- Delete employees who haven't logged in since 2020.
+
+delete from employees where last_login < '2020-01-01';
+
+
+create table sale as select * from sales;
+
+-- 40. TRUNCATE the sales table.
+
+
+truncate sale;
+
+
+/*
+=======================
+📋 8. CONSTRAINTS & KEYS
+=======================
+*/
+
+-- 41. Add a PRIMARY KEY to emp_id.
+
+alter table emp add column emp_id int(10) not null primary key;
+
+-- 42. Define NOT NULL on emp_name.
+
+alter table emp modify name char(40) not null;
+
+-- 43. Add UNIQUE constraint on email.
+
+alter table emp add  email varchar(35);
+
+alter table emp modify column email varchar(35) not null unique;
+
+
+-- 44. Add a FOREIGN KEY from employees to departments.
+
+alter table employees add constraint dept_id foreign key(dept_id) references departments(dept_id);
+
+-- 45. Add CHECK constraint for age > 18.
+
+
+alter table employees add constraint less_than_50k check(salary<200000);
